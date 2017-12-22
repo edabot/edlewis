@@ -3,6 +3,6 @@
     "node-sass": "^4.7.2"
   },
   "scripts": {
-    "scss": "node-sass src/main.scss public/assets/styles.css -w"
+    "scss": "node-sass src/main.scss public/assets/css/styles.css -w"
   }
 }
